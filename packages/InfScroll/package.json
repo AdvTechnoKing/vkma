@@ -1,7 +1,7 @@
 {
   "name": "@vkma/infscroll",
-  "version": "1.0.1",
-  "description": "My Component Library template",
+  "version": "1.0.3",
+  "description": "Компонент, для создания бесконечного скролла*",
   "main": "build/index.js",
   "module": "build/index.es.js",
   "jsnext:main": "build/index.es.js",
@@ -70,7 +70,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/AdvTechnoKing/vkma.git",
-    "directory": "packages/InfScroll"
+    "url": "https://github.com/AdvTechnoKing/vkma/tree/master/packages/InfScroll",
   }
 }
